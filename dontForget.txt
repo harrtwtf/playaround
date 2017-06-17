@@ -1,0 +1,5 @@
+namespaces
+pointer on pointer usw
+arguments in main(arg*)
+
+inline in header?
